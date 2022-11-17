@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.28024f71.chunk.css",
+    "main.js": "/static/js/main.f8ddbab0.chunk.js",
+    "main.js.map": "/static/js/main.f8ddbab0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a29335d3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a29335d3.js.map",
+    "static/js/2.1c87be8e.chunk.js": "/static/js/2.1c87be8e.chunk.js",
+    "static/js/2.1c87be8e.chunk.js.map": "/static/js/2.1c87be8e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.28024f71.chunk.css.map": "/static/css/main.28024f71.chunk.css.map",
+    "static/js/2.1c87be8e.chunk.js.LICENSE.txt": "/static/js/2.1c87be8e.chunk.js.LICENSE.txt",
+    "static/media/Book_website.8472318d.png": "/static/media/Book_website.8472318d.png",
+    "static/media/Guessing-Game.1686583f.png": "/static/media/Guessing-Game.1686583f.png",
+    "static/media/about-1.931ecf74.svg": "/static/media/about-1.931ecf74.svg",
+    "static/media/arrow.c2870ea2.svg": "/static/media/arrow.c2870ea2.svg",
+    "static/media/fizz_buzz_project.6afe94ad.png": "/static/media/fizz_buzz_project.6afe94ad.png",
+    "static/media/flower.0c59b54b.svg": "/static/media/flower.0c59b54b.svg",
+    "static/media/portfolio_project2.1f8e224d.png": "/static/media/portfolio_project2.1f8e224d.png",
+    "static/media/to_do_list.e4977d0c.png": "/static/media/to_do_list.e4977d0c.png",
+    "static/media/web.3e4edd03.svg": "/static/media/web.3e4edd03.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a29335d3.js",
+    "static/js/2.1c87be8e.chunk.js",
+    "static/css/main.28024f71.chunk.css",
+    "static/js/main.f8ddbab0.chunk.js"
+  ]
+}
